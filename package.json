@@ -1,0 +1,19 @@
+{
+  "name": "excel-purejs",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiMeL1002/excel-pureJS.git"
+  },
+  "author": "Melenik Dmitriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiMeL1002/excel-pureJS/issues"
+  },
+  "homepage": "https://github.com/DiMeL1002/excel-pureJS#readme"
+}
