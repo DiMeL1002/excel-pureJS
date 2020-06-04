@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94131599-b192-4d65-9226-84c80d60bf11" name="Default Changelist" comment="add .gitignore">
-      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="94131599-b192-4d65-9226-84c80d60bf11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/excel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/dashboard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/formula.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/toolbar.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/index.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,12 +49,12 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\projects\excel-pureJS\src1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\projects\excel-pureJS" />
       <recent name="F:\projects\excel-pureJS\src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\projects\excel-pureJS\src1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,6 +81,9 @@
       <updated>1590930512357</updated>
       <workItem from="1590930517576" duration="7583000" />
       <workItem from="1590989509109" duration="4339000" />
+      <workItem from="1590999908966" duration="18000" />
+      <workItem from="1591162082375" duration="6105000" />
+      <workItem from="1591247187008" duration="6284000" />
     </task>
     <task id="LOCAL-00001" summary="add .gitignore">
       <created>1590931715399</created>
